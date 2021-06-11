@@ -1,0 +1,1 @@
+This is Seth's first (Odin) git project!
